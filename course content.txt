@@ -1,0 +1,10 @@
+pip install opencv-contrib-python
+hough transform
+rouh = xcos(theta) + ysin(theta)
+
+Canny algorithm to get gradient and
+hough transform to get testing lines
+then average them out
+
+
+
